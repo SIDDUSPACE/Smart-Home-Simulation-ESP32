@@ -1,4 +1,4 @@
-# 🏠 Smart Home Environment Monitor (ESP32)
+# 🏠 Smart Home Simulation (ESP32)
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Wokwi%20Simulator-blue?style=for-the-badge)
