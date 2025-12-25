@@ -10,7 +10,7 @@ An IoT-based embedded system project that simulates real-time temperature and hu
 
 ## 🔗 Live Simulation
 You can run and test this project instantly in your browser without any hardware setup.
-[![Run on Wokwi](https://img.shields.io/badge/WOKWI-SIMULATION-blue?style=for-the-badge&logo=cpu)](PASTE_YOUR_WOKWI_LINK_HERE)
+[![Run on Wokwi](https://img.shields.io/badge/WOKWI-SIMULATION-blue?style=for-the-badge&logo=cpu)](https://wokwi.com/projects/451323028602832897)
 
 ---
 
