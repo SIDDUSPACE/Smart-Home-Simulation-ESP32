@@ -1,0 +1,42 @@
+{
+  "mcu": {
+    "model": "ESP32-WROOM-32",
+    "voltage": "3.3V"
+  },
+  "power": {
+    "input": "5V",
+    "regulator": "AMS1117-3.3"
+  },
+  "connectivity": {
+    "wifi": true,
+    "ble": true
+  },
+  "devices": [
+    {
+      "type": "relay",
+      "id": "light_1",
+      "gpio": 26
+    },
+    {
+      "type": "relay",
+      "id": "fan_1",
+      "gpio": 25
+    },
+    {
+      "type": "dht22",
+      "id": "temp_humidity",
+      "gpio": 4
+    },
+    {
+      "type": "pir",
+      "id": "motion_sensor",
+      "gpio": 27
+    },
+    {
+      "type": "ldr",
+      "id": "light_sensor",
+      "gpio": 34
+    }
+  ],
+  "protocol": "MQTT"
+}
